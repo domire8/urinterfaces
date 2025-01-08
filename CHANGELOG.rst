@@ -2,8 +2,8 @@
 Changelog for package urinterfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+7.0.0 (2025-01-08)
+------------------
 * Update msg, srv and action files (`#4 <https://github.com/UniversalRobots/ur_interfaces/issues/4>`_)
 * Update metainfo (`#5 <https://github.com/UniversalRobots/ur_interfaces/issues/5>`_)
 * Update ci (`#3 <https://github.com/UniversalRobots/ur_interfaces/issues/3>`_)
